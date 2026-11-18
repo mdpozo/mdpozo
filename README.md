@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy Manu (devManuD) 👋
 
-<!--
-**mdpozo/mdpozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Diseñador Gráfico & 💻 Desarrollador Multiplataforma (DAM)
 
-Here are some ideas to get you started:
+Vengo del mundo de la **Imagen y el Diseño Gráfico** y actualmente estoy finalizando **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en Cáceres. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi enfoque consiste en unir ambos mundos: **diseñar interfaces con criterio visual, tipografía y usabilidad (UI/UX)**, y construirlas por dentro con **código limpio, modular y escalable**.
+
+---
+
+### 🛠️ Stack Tecnológico
+
+* **Frontend & UI/UX:** TypeScript, HTML5, CSS3, Figma, Suite Adobe (Photoshop, Illustrator), Sistemas de Diseño.
+* **Desarrollo Multiplataforma & Móvil:** Kotlin (Jetpack Compose, Material 3, MVVM), Java (JavaFX).
+* **Backend, Datos & ERP:** Python (Odoo), SQL (PostgreSQL / MySQL), APIs REST, Git / GitHub.
+
+---
+
+### 🚀 Proyectos Destacados
+
+* **[Gremio](https://github.com/mdpozo/Gremio)** — Aplicación desarrollada en TypeScript enfocada en interfaz moderna y arquitectura modular.
+* **[Alquiler de Patinetes (JavaFX)](https://github.com/mdpozo/alquiler-patinetes-javafx)** — Aplicación de escritorio en Java con interfaz personalizada y gestión de datos.
+* **[MercatoWeb](https://github.com/mdpozo/MercatoWeb)** — Diseño y maquetación web responsive orientada a producto.
+
+---
+
+### 📫 Contacto
+* 📍 Cáceres, España
+* 💼 Disponible para prácticas FCT (Desarrollo Frontend / UI-UX / Multiplataforma)
