@@ -1,6 +1,6 @@
 # Hola, soy Manu (devManuD) 👋
 
-###  Diseñador Gráfico & 💻 Desarrollador Multiplataforma (DAM)
+###  Diseñador Gráfico y Desarrollador Multiplataforma (DAM)
 
 Vengo del mundo de la **Imagen y el Diseño Gráfico** y actualmente estoy finalizando **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)** en Cáceres. 
 
